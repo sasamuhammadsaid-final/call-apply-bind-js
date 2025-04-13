@@ -1,0 +1,19 @@
+{
+  "name": "call-apply-bind",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasamuhammadsaid-final/call-apply-bind-js.git"
+  },
+  "author": "Sasa Muhammad Said",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sasamuhammadsaid-final/call-apply-bind-js/issues"
+  },
+  "homepage": "https://github.com/sasamuhammadsaid-final/call-apply-bind-js#readme",
+  "description": ""
+}
